@@ -1,2 +1,1 @@
-HTML+CSS
-автор: Никита
+3paccc.github.io
